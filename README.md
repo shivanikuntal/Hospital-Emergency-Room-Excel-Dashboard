@@ -65,7 +65,7 @@ The dataset was cleaned using Python by:
 
 
 ## 📂 Repository Structure
-
+```
 Hospital-Emergency-Room-Analysis
 │
 ├── Data
@@ -74,7 +74,7 @@ Hospital-Emergency-Room-Analysis
 ├── Images
 ├── Video
 └── README.md
-
+```
 # 📌 Key Insights
 
 - Patient admissions are almost equally split between admitted and non-admitted cases.
