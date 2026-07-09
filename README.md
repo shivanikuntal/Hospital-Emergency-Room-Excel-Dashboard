@@ -6,7 +6,7 @@ This project demonstrates an end-to-end healthcare data analysis workflow. The r
 
 ##📊 Dashboard Preview
 
-![Dashboard](Dashboard_iamge\dashboard_E.png)
+![Dashboard](dashboard_E.png)
 
 # 🎯 Project Objectives
 
